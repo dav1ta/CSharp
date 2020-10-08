@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEbUf5P+m+cMDuve9UTkqaM/n2pa+BMvF513+BHYLCfdAmbsjJkFNExGguOgzhnEGK/kUJdqE2YA0x+H6vAiSQ==",
+  "success": true,
+  "projectFilePath": "/home/davit/RiderProjects/Homework1/Homework1/Homework1.csproj",
+  "expectedPackageFiles": [
+    "/home/davit/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
